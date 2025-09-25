@@ -1,0 +1,34 @@
+{
+    "tipo": {
+        "padaria": [
+            {
+                "id": 1,
+                "nome": "baguette"
+            },
+            {
+                "id": 2,
+                "nome": "pão francês"
+            }
+        ],
+        "confeitaria": [
+            {
+                "id": 1,
+                "nome": "bolo de chocolate"
+            },
+            {
+                "id": 1,
+                "nome": "bolo de murango"
+            }
+        ],
+        "bebidas": [
+            {
+                "id": 1,
+                "nome": "coquinha trincando"
+            },
+            {
+                "id": 2,
+                "nome": "toddynho"
+            }
+        ]
+    }
+}
